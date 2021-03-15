@@ -1,0 +1,7 @@
+C:\Users\Chanl\Documents\CSE 446\Projects\Assignment 5\A5(Q1)\A5(Q1)\bin\A5(Q1).dll.config
+C:\Users\Chanl\Documents\CSE 446\Projects\Assignment 5\A5(Q1)\A5(Q1)\bin\A5(Q1).dll
+C:\Users\Chanl\Documents\CSE 446\Projects\Assignment 5\A5(Q1)\A5(Q1)\bin\A5(Q1).pdb
+C:\Users\Chanl\Documents\CSE 446\Projects\Assignment 5\A5(Q1)\A5(Q1)\obj\Debug\A5(Q1).csprojAssemblyReference.cache
+C:\Users\Chanl\Documents\CSE 446\Projects\Assignment 5\A5(Q1)\A5(Q1)\obj\Debug\A5(Q1).csproj.CoreCompileInputs.cache
+C:\Users\Chanl\Documents\CSE 446\Projects\Assignment 5\A5(Q1)\A5(Q1)\obj\Debug\A5(Q1).dll
+C:\Users\Chanl\Documents\CSE 446\Projects\Assignment 5\A5(Q1)\A5(Q1)\obj\Debug\A5(Q1).pdb

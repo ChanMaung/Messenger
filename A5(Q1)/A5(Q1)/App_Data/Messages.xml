@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--CSE446 Messaging System Example-->
+<Messages xmlns="http://example.com/Messages">
+  <Message>
+    <SenderID>1</SenderID>
+    <ReceiverID>2</ReceiverID>
+    <TS>3/14/2021 8:20:21 PM</TS>
+    <MessageContents>Hi</MessageContents>
+  </Message>
+  <Message>
+    <SenderID>R1</SenderID>
+    <ReceiverID>S1</ReceiverID>
+    <TS>3/14/2021 8:31:21 PM</TS>
+    <MessageContents>Test message from S1</MessageContents>
+  </Message>
+  <Message>
+    <SenderID>Sender1</SenderID>
+    <ReceiverID>Reciever1</ReceiverID>
+    <TS>3/14/2021 8:34:41 PM</TS>
+    <MessageContents>Test Message from Sender1</MessageContents>
+  </Message>
+</Messages>
